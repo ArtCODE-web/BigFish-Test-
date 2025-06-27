@@ -1,0 +1,42 @@
+:root {
+    --defaultTextColor: #303030;
+    --bg-form-element: #F5F7F9;
+    --white: #fff;
+    --body: #F6F7FA;
+    --primary: #1A73E8;
+    --secondary: #8789A1;
+    --success: green;
+    --warning: yellow;
+    --danger: red;
+    /* tipografy */
+    --fontFamily: 'fira sans', sans-serif;
+    
+    --h1Size: 50px;
+    --h2Size: 40px;
+    --h3Size: 26px;
+    --h4Size: 20px;
+    --h5Size: 10px;
+    --defaultRaduis: 5px;
+    --header-height: 0px;
+    /* font-size */
+    --text--xs: 14px;
+    --text--sm: 16px;
+    --text--md: 16px;
+    --text--lg: 22px;
+    --text--xl: 24px;
+    
+    --defaultFontSize: var(--text--md);
+    --defaultLineHeight: normal;
+    /* sizes */
+    --size-xs: 20px;
+    --size-sm: 40px;
+    --size-md: 50px;
+    --size-lg: 70px;
+    --size-xl: 80px;
+    /* icons */
+    --ico-size--xs: var(--size-xs);
+    --ico-size--sm: var(--size-sm);
+    --ico-size--md: var(--size-md);
+    --ico-size--lg: var(--size-lg);
+    --ico-size--xl: var(--size-xl);
+}
